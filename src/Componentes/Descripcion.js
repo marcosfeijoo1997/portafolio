@@ -29,12 +29,13 @@ Habilidades:
     <div className='skills' id='skills'>
 
       <p>Conocimientos</p> 
+
  <div className='logos'> 
  <li className="ri-html5-fill"></li>
  <li className="ri-css3-fill"></li>
  <li className="ri-javascript-fill"></li> 
- </div>
- <div className='logos'>
+
+ 
  <li className="ri-reactjs-line"></li> 
  <li className="ri-github-fill"></li>
  <li className="bootstrapcontainer bi bi-bootstrap-fill"></li>

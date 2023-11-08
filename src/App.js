@@ -1,4 +1,3 @@
-import { BrowserRouter, Route,Routes } from 'react-router-dom';
 import Header from './Componentes/header';
 import Redes from './Componentes/Redes'
 import Navbar from './Componentes/Navbar';
@@ -14,7 +13,6 @@ function App() {
     <Descripcion/>
     <Portafolio/>
     <Redes/>
- 
     
        
  
